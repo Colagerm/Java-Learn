@@ -5,7 +5,7 @@ public class Test_3 {
         System.out.println(c1);
         System.out.println(c2);
         //注意：java中的字符可以存放整形
-        char c3 = '帅';
+        char c3 = '帅比';
         System.out.println(c3);
 
 
